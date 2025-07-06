@@ -1,0 +1,23 @@
+{
+  "name": "verifactu-enviador-factures",
+  "version": "1.0.0",
+  "description": "Eina CLI per enviar factures a l'API espanyola Verifactu",
+  "type": "module",
+  "main": "index.js",
+  "bin": {
+    "verifactu-enviar": "./bin/cli.js"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "test": "node --test"
+  },
+  "dependencies": {
+    "axios": "^1.6.0",
+    "commander": "^11.1.0",
+    "dotenv": "^16.3.0",
+    "qrcode": "^1.5.4"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
