@@ -27,7 +27,7 @@ Aquest projecte proporciona una eina de línia d'ordres per integrar sistemes de
 
 ```bash
 # Clonar el repositori
-git clone https://github.com/el-vostre-usuari/verifactu-enviador-factures.git
+git clone https://github.com/qmrcat/verifactu
 cd verifactu-enviador-factures
 
 # Instal·lar dependències
@@ -280,7 +280,7 @@ Aquest projecte està llicenciat sota la Llicència MIT - vegeu el fitxer [LICEN
 Si trobeu problemes o teniu preguntes:
 
 1. Consulteu la [documentació oficial de Verifactu](https://app.verifactuapi.es/docs/)
-2. Obriu un [issue](https://github.com/el-vostre-usuari/verifactu-enviador-factures/issues)
+2. Obriu un [issue](https://github.com/qmrcat/verifactu)
 3. Contacteu amb l'equip de desenvolupament
 
 ## ⚠️ Avisos Legals
