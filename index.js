@@ -55,8 +55,4 @@ if (import.meta.url === `file://${process.argv[1]}`) {
 ./bin/cli.js factura.json -u "el.vostre.usuari" -k "la-vostra-clau-api" --verbose
 
 # Utilitzant variables d'entorn
-
-
-node ./bin/cli.js ./factures/ax20250702-001.json --username "ga.a39200019" --api-key "WTTMh7Sftr6EWw1HxpiOKurQh6JViLf6BMLljJDbUAte4kO8mDqrOvTds36d7X72"
-node ./bin/cli.js ./factures/ax20250702-002.json --username "ga.a39200019" --api-key "WTTMh7Sftr6EWw1HxpiOKurQh6JViLf6BMLljJDbUAte4kO8mDqrOvTds36d7X72"
 */
